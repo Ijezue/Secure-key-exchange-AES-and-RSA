@@ -7,3 +7,5 @@ and Bob (see Figure). Alex will create a secret key for AES and sign on the key,
 and signature to Bob using the RSA algorithm. After they exchange a secret key, Alex sends a
 message encrypted by AES to Bob, who decrypts the message to read. Bob will send a reply
 encrypted by AES back to Alex, who decrypts Bob’s reply. 
+![image](https://github.com/Ijezue/Secure-key-exchange-AES-and-RSA/assets/94120756/6c5e66f3-45c5-434c-be9e-cd797d35dd0b)
+
